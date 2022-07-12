@@ -6,5 +6,5 @@ This model is trained using Stochastic Gradient Descent (SGD) with backpropagati
 
 I have used a custom dataset of Friends casts images.
 
-## Output
+## Sample Output
 ![image](https://user-images.githubusercontent.com/83486603/178512389-c0c2d64c-5437-4b0f-8cc8-63de97e0baa2.png)
